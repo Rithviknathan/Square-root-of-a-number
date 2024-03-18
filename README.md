@@ -24,6 +24,7 @@ RegisterNumber:
 ```
 
 ## Output:
+![Screenshot 2024-03-18 225244]
 
 
 
