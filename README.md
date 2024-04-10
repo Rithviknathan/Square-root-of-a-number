@@ -23,7 +23,8 @@ RegisterNumber:
 
 
 ## Output:
-[Screenshot 2024-03-18 225244]
+![Screenshot (63)](https://github.com/Rithviknathan/Square-root-of-a-number/assets/148410509/c8000994-a3b1-48c3-ad77-5080113433db)
+
 
 
 
