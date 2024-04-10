@@ -15,13 +15,12 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
 /*
 Program to find the square root for the given number(newton's method) using function.
 Developed by: 
 RegisterNumber:  
 */
-```
+
 
 ## Output:
 ![Screenshot 2024-03-18 225244]
