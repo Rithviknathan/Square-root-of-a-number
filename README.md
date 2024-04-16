@@ -15,11 +15,10 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-/*
-
+```
 Program to find the square root for the given number(newton's method) using function.
-Developed by: KEERTHIVASAN M
-RegisterNumber: 212223100021 
+Developed by: RITHVIK S
+RegisterNumber: 212223100045
 
 def newton_sqrt(number, tolerance=1e-10):
 
@@ -34,15 +33,8 @@ def newton_sqrt(number, tolerance=1e-10):
 number = int(input())
 square_root = newton_sqrt(number)
 print("Square root of the number: {}".format(square_root))
-
-*/
-
-
+```
 ## Output:
 ![exp 5 image](https://github.com/Rithviknathan/Square-root-of-a-number/assets/148410509/01191f62-f986-4105-b168-e15c35981a14)
-
-
-
-
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
